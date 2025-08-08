@@ -1,4 +1,5 @@
-scrna_env.DS_Store
+SCP2154
+.DS_Storescrna_env.DS_Store
 venv/
 scrna_env/
 data/
